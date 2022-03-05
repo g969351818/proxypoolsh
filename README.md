@@ -1,2 +1,1 @@
-# proxypoolsh
-## 只可意会，不可言传
+Android手机上使用Termux自动抓取节点
